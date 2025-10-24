@@ -12,7 +12,7 @@ git clone https://github.com/<your-username>/CallRecording-backend.git
 Install dependencies
 
 
-***cd CallRecording-backend
+***cd CallRecording-frontend
 ***npm install
 
 
