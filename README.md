@@ -1,6 +1,6 @@
 # 🎧 CallRecording-frontend
 
-Backend server for the **Call Recording Application**, built with **Node.js** and **Express.js**.
+Backend server for the **Call Recording Application**, built with **React.js** 
 
 ---
 
