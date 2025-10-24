@@ -1,4 +1,4 @@
-# 🎧 Call Recording Backend
+# 🎧 CallRecording-frontend
 
 Backend server for the **Call Recording Application**, built with **Node.js** and **Express.js**.
 
@@ -8,7 +8,7 @@ Backend server for the **Call Recording Application**, built with **Node.js** an
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/CallRecording-backend.git
+git clone https://github.com/<your-username>/CallRecording-frontend.git
 Install dependencies
 
 
